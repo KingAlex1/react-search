@@ -3,7 +3,7 @@
 
 Приложение для поиска, сортировки данных по списку.
 
-demo:
+demo: https://kingalex1.github.io/react_search/
 
 
 ##Запуск и установка
