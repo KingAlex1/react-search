@@ -3,7 +3,7 @@
 
 Приложение для поиска, сортировки данных по списку.
 
-demo: https://kingalex1.github.io/react_search/
+demo: https://kingalex1.github.io/searc-test/
 
 
 ##Запуск и установка
